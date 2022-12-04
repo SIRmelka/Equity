@@ -152,7 +152,7 @@ height: 30px;
     align-items: center;
 }
 .home{
-    border: 1px solid red;
+    /* border: 1px solid red; */
     height: 80vh;
     align-items: center;
     margin-top: 10vh;
