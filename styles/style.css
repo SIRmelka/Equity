@@ -151,3 +151,10 @@ height: 30px;
     justify-content: space-around;
     align-items: center;
 }
+.home{
+    border: 1px solid red;
+    height: 80vh;
+    align-items: center;
+    margin-top: 10vh;
+    overflow: auto;
+}
